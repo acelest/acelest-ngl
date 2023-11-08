@@ -7,38 +7,38 @@ const overpass = Overpass({
 });
 
 export const metadata: Metadata = {
-  title: "LN - NGL ",
-  description: "LN - NGL ",
-  metadataBase: new URL("https://ln-ngl.vercel.app"),
+  title: "ACELEST NLG ",
+  description: "ACELEST NLG ",
+  metadataBase: new URL("https://acelest-ngl.vercel.app"),
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://ln-ngl.vercel.app",
-    siteName: "LN - NGL ",
+    url: "https://acelest-ngl.vercel.app",
+    siteName: "ACELEST NLG ",
     images: [
       {
-        url: "https://ln-ngl.vercel.app/banner.jpeg",
+        url: "https://acelest-ngl.vercel.app/banner.jpeg",
         width: 917,
         height: 725,
-        alt: "LN - NGL ",
+        alt: "ACELEST NLG ",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    site: "@ln_dev7",
-    creator: "@ln_dev7",
+    site: "@acelestcode",
+    creator: "@acelestcode",
     images: [
       {
-        url: "https://ln-ngl.vercel.app/banner.jpeg",
+        url: "https://acelest-ngl.vercel.app/banner.jpeg",
         width: 917,
         height: 725,
-        alt: "LN - NGL ",
+        alt: "ACELEST NLG ",
       },
     ],
   },
-  authors: [{ name: "Leonel NGOYA", url: "https://leonelngoya.com" }],
-  keywords: "LN Dev, ngl link, responses",
+  authors: [{ name: "Aubin DJOU", url: "https://bento.me/aubindjou" }],
+  keywords: "Acelest Code, ngl link, responses",
 };
 
 export default function RootLayout({
