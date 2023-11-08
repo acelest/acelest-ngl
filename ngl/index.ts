@@ -10,10 +10,52 @@ export const ngl = [
     response: "Je suis un fier utilisateur d'un Lenovo ThinkPad T460.",
   },
   {
+    question:
+      " Tu aimes la photographie mais tu n'aimes pas etre sur les photos. Tu ne postes jamais de photos de toi. Tu fais ca commment ? Explique un peu",
+    response:
+      "Ouii j'adore prendre des photos, mais je suis pas a l'aise derriere une camera c'est parce que j'ai peur d'etre mal filmer lol :)",
+  },
+  {
+    question: " Quels sont les objectifs de ton projet actuel ?",
+    response: "Pour le fun ",
+  },
+  {
+    question: " Qu'est ce qui t'as pousse a devenir dev web  ?",
+    response:
+      "Le web constitue aujourd'hui une importante source de creation d'opportunites et la passion aussi",
+  },
+
+  {
+    question: " Soit Heureux et reste toi ",
+    response: "Ok, je promets de ne pas changer",
+  },
+  {
+    question: " Comment vous allez ?",
+    response: "Bien je l'espere aussi pour vous ",
+  },
+  {
+    question: " C'est encore quoi ca ?",
+    response: "Comme tu vois  ",
+  },
+  {
+    question: " Bonjour ",
+    response: "Bonsoir :) ",
+  },
+  {
+    question: " Tu aimes quel sport ?",
+    response: "J'adore le sport en general, mais en particulier le basket ",
+  },
+
+  {
     question: "Pourquoi as-tu choisi Ubuntu comme système d'exploitation ?",
     response:
       "J'aime la stabilité, la sécurité et la communauté open source d'Ubuntu. C'est parfait pour le développement !",
   },
+  {
+    question: "Yo",
+    response: "Wesh",
+  },
+
   {
     question: "Quel est ton langage de programmation préféré ?",
     response: "J'adore coder en Python. C'est polyvalent et super efficace.",
