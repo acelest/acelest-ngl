@@ -17,7 +17,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-5 sm:px-10 md:px-12 lg:px-5 space-y-12">
           <div className="flex flex-col items-start gap-4">
             <h1 className="font-bold text-gray-800  text-3xl">
-              Réponses de Acelest aux questions anonymes
+              Réponses de aubin aux questions anonymes
             </h1>
             <div className="w-full flex flex-col sm:flex-row items-center justify-between gap-4 z-40">
               <Link
