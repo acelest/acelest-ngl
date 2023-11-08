@@ -7,7 +7,7 @@
 export const ngl = [
   {
     question: "Quel modèle de Lenovo ThinkPad utilises-tu ?",
-    response: "Je suis un fier utilisateur d'un Lenovo ThinkPad X1 Carbon.",
+    response: "Je suis un fier utilisateur d'un Lenovo ThinkPad T460.",
   },
   {
     question: "Pourquoi as-tu choisi Ubuntu comme système d'exploitation ?",
