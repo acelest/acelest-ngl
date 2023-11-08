@@ -28,7 +28,7 @@ export default function Home() {
                 Pose moi une question
               </Link>
               <Link
-                className="w-full sm:w-fit bg-sky-400 hover:bg-sky-500 duration-300 rounded-lg px-8 py-2 flex items-center justify-center text-white"
+                className="w-full sm:w-fit bg-sky-400 hover:bg-green-600 duration-300 rounded-lg px-8 py-2 flex items-center justify-center text-white"
                 target="_blank"
                 href="https://twitter.com/acelestcode"
               >
@@ -41,7 +41,7 @@ export default function Home() {
               return (
                 <div
                   key={index}
-                  className="h-fit p-5 md:p-6 space-y-6 rounded-lg bg-white  border border-gray-100  shadow-2xl shadow-gray-100/70 hover:border-sky-400"
+                  className="h-fit p-5 md:p-6 space-y-6 rounded-lg bg-white  border border-gray-100  shadow-2xl shadow-gray-100/70 hover:border-red-600"
                 >
                   <p className="font-medium text-md text-gray-700 ">
                     “ {ngl.question} ”
