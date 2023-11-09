@@ -39,7 +39,7 @@ export const ngl = [
   },
   {
     question: "Comment appelle ton un etre qui n'est pas ?",
-    response: "",
+    response: "Un être inexistant. ",
   },
   {
     question: "are you talking to anyone?",
