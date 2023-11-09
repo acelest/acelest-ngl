@@ -24,6 +24,29 @@ export const ngl = [
     response: ")(",
   },
   {
+    question: "Pourquoi acelestdev?",
+    response: "aubin celestin-> acelest et dev pour developpeur ",
+  },
+  {
+    question:
+      "Comment le systeme permettant de pirater les comptes bancaires ?",
+    response:
+      "Je fais pas securite mais c'est generalement pas de failles de secu, que l'hackeur passe, comme le pishing ou hameconage, envoie de mails..",
+  },
+  {
+    question: "your last song on spotify",
+    response: "Mylene Farmer - Desenchantee",
+  },
+  {
+    question: "Comment appelle ton un etre qui n'est pas ?",
+    response: "",
+  },
+  {
+    question: "are you talking to anyone?",
+    response: "no :)",
+  },
+
+  {
     question: " Quels sont les objectifs de ton projet actuel ?",
     response: "Pour le fun ",
   },
