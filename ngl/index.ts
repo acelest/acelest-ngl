@@ -16,6 +16,14 @@ export const ngl = [
       "Ouii j'adore prendre des photos, mais je suis pas a l'aise derriere une camera c'est parce que j'ai peur d'etre mal filmer lol :)",
   },
   {
+    question: "me manques tellement..",
+    response: "🙄 pourquoi ?",
+  },
+  {
+    question: "🍆🥵",
+    response: ")(",
+  },
+  {
     question: " Quels sont les objectifs de ton projet actuel ?",
     response: "Pour le fun ",
   },
