@@ -20,6 +20,11 @@ export const ngl = [
     response: "🙄 pourquoi ?",
   },
   {
+    question: "Je suis fébrile à l'idée de te demander de sortir avec moi",
+    response:
+      "Merci pour ton message sincère. J'apprécie vraiment ton honnêteté. Peux-tu m'en dire un peu plus sur ce que tu as en tête ?",
+  },
+  {
     question: "🍆🥵",
     response: ")(",
   },
