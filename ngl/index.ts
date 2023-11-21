@@ -16,8 +16,35 @@ export const ngl = [
       "Ouii j'adore prendre des photos, mais je suis pas a l'aise derriere une camera c'est parce que j'ai peur d'etre mal filmer lol :)",
   },
   {
-    question: "me manques tellement..",
-    response: "🙄 pourquoi ?",
+    question:
+      "Tu penses que les apparences comptent plus que la personnalite ?",
+    response:
+      "la véritable beauté réside dans l'équilibre entre les deux, car une personnalité authentique peut enrichir la perception de la beauté physique, et vice versa.",
+  },
+  {
+    question: "c'est qui ta derniere recherche insta ?",
+    response: "le compte insta de ma marque de coeur poloraphlauren",
+  },
+
+  {
+    question: "stp sois mon intime, tu me plais vraiment",
+    response:
+      "Flatté par le compliment. Les apparences sont comme des rideaux, mais si tu veux découvrir ce qui se cache dans l'ombre, laisse-moi te révéler un peu de ce mystère autour d'un verre.",
+  },
+
+  {
+    question: "nous sommes camarades depuis si longtemps...je t'aime vraiment",
+    response: "J'espère que notre lien spécial perdurera malgré tout",
+  },
+  {
+    question: "t'es la creme, je t'aime",
+    response:
+      "Tes mots sont doux comme la crème,Merci pour ton affection donne",
+  },
+  {
+    question: "mes parents t'aiment vraiment",
+    response:
+      "Tes parents m'aime c'est un point tres bien, dit moi le premiere lettre de tes noms ou des indices sur ton nom stp",
   },
   {
     question: "Je suis fébrile à l'idée de te demander de sortir avec moi",
@@ -28,6 +55,12 @@ export const ngl = [
     question: "🍆🥵",
     response: ")(",
   },
+  {
+    question: "me manques tellement",
+    response:
+      "Les absences créent la nostalgie. On se retrouvera quand le temps sera venu",
+  },
+
   {
     question: "Pourquoi acelestdev?",
     response: "aubin celestin-> acelest et dev pour developpeur ",
@@ -97,7 +130,7 @@ export const ngl = [
     response: "J'adore coder en Python. C'est polyvalent et super efficace.",
   },
   {
-    question: "Tu es mignon ?",
+    question: "Tu es mignon",
     response: "Merci",
   },
 
