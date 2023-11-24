@@ -22,6 +22,16 @@ export const ngl = [
       "la véritable beauté réside dans l'équilibre entre les deux, car une personnalité authentique peut enrichir la perception de la beauté physique, et vice versa.",
   },
   {
+    question: "j'adore trainer avec toi ",
+    response: "Merci c'est gentil, mais j'adore aussi la solitude.",
+  },
+  {
+    question: "je suis la si jamais t'as besoin  ",
+    response:
+      "Oui, et j'ai besoin de toi actuellement, donne moi un indice sur toi je vais pas te devoiler ici",
+  },
+
+  {
     question: "c'est qui ta derniere recherche insta ?",
     response: "le compte insta de ma marque de coeur poloraphlauren",
   },
