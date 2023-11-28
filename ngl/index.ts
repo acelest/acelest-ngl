@@ -26,6 +26,14 @@ export const ngl = [
     response: "Merci c'est gentil, mais j'adore aussi la solitude.",
   },
   {
+    question: "je veux connaitre ton crush ",
+    response: "Je n'ai pas de crush, la vie c'est pas pour crusher",
+  },
+  {
+    question: "on peut se voire bientot",
+    response: "Se voire? je veux plus que ca..",
+  },
+  {
     question: "je suis la si jamais t'as besoin  ",
     response:
       "Oui, et j'ai besoin de toi actuellement, donne moi un indice sur toi je vais pas te devoiler ici",
