@@ -39,6 +39,10 @@ export const ngl = [
     response: "Se voire? je veux plus que ca..",
   },
   {
+    question: "tu me manques",
+    response: "C'est tellement gentil de l'entendre.",
+  },
+  {
     question: "je suis la si jamais t'as besoin  ",
     response:
       "Oui, et j'ai besoin de toi actuellement, donne moi un indice sur toi je vais pas te devoiler ici",
