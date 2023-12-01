@@ -30,6 +30,11 @@ export const ngl = [
     response: "Je n'ai pas de crush, la vie c'est pas pour crusher",
   },
   {
+    question: "stp sois mon intime, tu me plais vraiment",
+    response:
+      "Merci beaucoup pour le compliment! Mais tu commences deja a m'envere avec tes propos, donne moi ton identite..ou sinon je supprime ce site et l'envoie des messages anonymes ",
+  },
+  {
     question: "on peut se voire bientot",
     response: "Se voire? je veux plus que ca..",
   },
