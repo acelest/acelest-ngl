@@ -16,6 +16,10 @@ export const ngl = [
       "Ouii j'adore prendre des photos, mais je suis pas a l'aise derriere une camera c'est parce que j'ai peur d'etre mal filmer lol :)",
   },
   {
+    question: "c'est qui ton crush ?",
+    response: "Toi.",
+  },
+  {
     question:
       "Tu penses que les apparences comptent plus que la personnalite ?",
     response:
@@ -25,6 +29,11 @@ export const ngl = [
     question: "j'adore trainer avec toi ",
     response: "Merci c'est gentil, mais j'adore aussi la solitude.",
   },
+  {
+    question: "t'es tropp adorable",
+    response: "Wesh merci cc",
+  },
+
   {
     question: "je veux connaitre ton crush ",
     response: "Je n'ai pas de crush, la vie c'est pas pour crusher",
@@ -45,7 +54,7 @@ export const ngl = [
   {
     question: "je suis la si jamais t'as besoin  ",
     response:
-      "Oui, et j'ai besoin de toi actuellement, donne moi un indice sur toi je vais pas te devoiler ici",
+      "Oui, et j'ai besoin de toi actuellement, donne moi un indice sur toi.",
   },
 
   {
