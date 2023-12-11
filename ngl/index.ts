@@ -20,6 +20,11 @@ export const ngl = [
     response:
       "bien bien, tranquille. Toujours en mode relax, tu sais comment c'est. Et toi, ça roule comment de ton côté ?",
   },
+  {
+    question: "J'aimerais que nous soyons les meilleurs camarades",
+    response:
+      "t'inquiète, on peut être plus que des potes, on peut être des loups dans cette jungle on trace notre route ensemble, on partage les galères et les réussites t'es down pour ça ?",
+  },
 
   {
     question: "Qui te manque le plus ?",
@@ -52,7 +57,7 @@ export const ngl = [
   {
     question: "stp sois mon intime, tu me plais vraiment",
     response:
-      "Merci beaucoup pour le compliment! Mais tu commences deja a m'envere avec tes propos, donne moi ton identite..ou sinon je supprime ce site et l'envoie des messages anonymes ",
+      "Merci beaucoup pour le compliment! mais je te connais pas assez pour envisager ca pour le moment",
   },
   {
     question: "on peut se voire bientot",
@@ -64,8 +69,7 @@ export const ngl = [
   },
   {
     question: "je suis la si jamais t'as besoin  ",
-    response:
-      "Oui, et j'ai besoin de toi actuellement, donne moi un indice sur toi.",
+    response: "Oui, et j'ai besoin de toi actuellement",
   },
 
   {
