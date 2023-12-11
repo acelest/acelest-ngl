@@ -16,6 +16,17 @@ export const ngl = [
       "Ouii j'adore prendre des photos, mais je suis pas a l'aise derriere une camera c'est parce que j'ai peur d'etre mal filmer lol :)",
   },
   {
+    question: "Comment tu vas aujourd'hui? Tout va bien ?",
+    response:
+      "bien bien, tranquille. Toujours en mode relax, tu sais comment c'est. Et toi, ça roule comment de ton côté ?",
+  },
+
+  {
+    question: "Qui te manque le plus ?",
+    response:
+      "Eh bien y'a pas mal de monde qui a foutu le camp dici-bas. Mais si tu veux savoir qui me manque vraiment, c'est ceux qui sont six pieds sous terre. Les amis perdus en chemin, les frères devenus des souvenirs. C'est eux qui laissent un vide qui ne se comble pas, même avec toute la puissance du temps",
+  },
+  {
     question: "c'est qui ton crush ?",
     response: "Toi.",
   },
