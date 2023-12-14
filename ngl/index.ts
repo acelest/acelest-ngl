@@ -29,7 +29,7 @@ export const ngl = [
   {
     question: "Je crois qu",
     response:
-      "Demain, à Yafê apres les cours, je serai là . Si tu es curieuse de découvrir qui se cache derrière moi comme tu le dis, Choisis, et peut-être,tu auras le privilège de percer le voile qui entoure mon identité. À demain mets une robe qui te va bien.",
+      "Demain, à Yafê apres les cours, je serais là . Si tu es curieuse de découvrir qui se cache derrière moi comme tu le dis, Choisis, et peut-être,tu auras le privilège de percer le voile qui entoure mon identité. À demain mets une robe qui te va bien.",
   },
 
   {
