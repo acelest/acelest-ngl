@@ -27,7 +27,7 @@ export const ngl = [
       "Tu penses donc que quelqu'un que je connais aurait un béguin pour moi, n'est-ce pas ? Eh bien, mon ami anonyme, si elle souhaite révéler son identité et discuter de cela de manière civilisée, qu'elle le fasse. En attendant, je préfère me concentrer sur des affaires plus sérieuses et laisser les sentiments flotter dans l'ombre. La discrétion est une qualité appréciée dans notre monde, tout comme la loyauté. Qu'elle choisisse avec sagesse son prochain mouvement.",
   },
   {
-    question: "Je crois qu",
+    question: "Je crois que quelqu'un que je connais a le beguin pour toi ??",
     response:
       "Demain, à Yafê apres les cours, je serais là . Si tu es curieuse de découvrir qui se cache derrière moi comme tu le dis, Choisis, et peut-être,tu auras le privilège de percer le voile qui entoure mon identité. À demain mets une robe qui te va bien.",
   },
