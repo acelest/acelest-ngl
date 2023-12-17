@@ -20,6 +20,10 @@ export const ngl = [
     response:
       "bien bien, tranquille. Toujours en mode relax, tu sais comment c'est. Et toi, ça roule comment de ton côté ?",
   },
+  {
+    question: "Qui tu texte le plus ?",
+    response: "Moi,j'adore parler tout seul. ",
+  },
 
   {
     question: "Je crois que quelqu'un que je connais a le beguin pour toi ??",
