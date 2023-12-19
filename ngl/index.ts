@@ -42,8 +42,7 @@ export const ngl = [
   },
   {
     question: "Celibataire ou pas",
-    response:
-      "Celib, et pourquoi tu veux pas te devoiler,t'as pas confiance en toi en fait ?",
+    response: "Oui",
   },
   {
     question: "Tu as des piercings ?",
