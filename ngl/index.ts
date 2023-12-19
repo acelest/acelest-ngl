@@ -45,6 +45,16 @@ export const ngl = [
     response:
       "Chui en mode sommeil, la nostalgie, c'est pas ma vibe en ce moment. J'ai une seule envie... 💤",
   },
+  {
+    question: "qui sont des meilleurs amis garcons? ",
+    response:
+      " sur le chemin de la vie j'ai fait de belles rencontres, je suis quelqu'un de loyal dont j'ai peu d'amis tres proches,patrick(mon meilleur pote de l'univ), yann(mon meilleur pote ou frere meme), et le reste que j'appelle l'entourage, camarades etc..",
+  },
+  {
+    question: "t'as des ex",
+    response:
+      "Ah, tu sais, la vie est pleine d'histoires et d'expériences. Chacune laisse une empreinte, mais je  ne suis pas du genre à vivre dans le rétroviseur. Chaque chapitre m'a appris quelque chose et m'a aidé à devenir la personne  que tu vois aujourd'hui.",
+  },
 
   {
     question: "Je crois que quelqu'un que je connais a le beguin pour toi ??",
