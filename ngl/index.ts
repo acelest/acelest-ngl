@@ -41,6 +41,11 @@ export const ngl = [
       "J'ai besoin d'une femme, une matriache, qui sait cuisiner les grillades..",
   },
   {
+    question: "Celibataire ou pas",
+    response:
+      "Celib, et pourquoi tu veux pas te devoiler,t'as pas confiance en toi en fait ?",
+  },
+  {
     question: "Tu as des piercings ?",
     response: "Nada ",
   },
