@@ -21,8 +21,29 @@ export const ngl = [
       "bien bien, tranquille. Toujours en mode relax, tu sais comment c'est. Et toi, ça roule comment de ton côté ?",
   },
   {
+    question: "je t'aime vraiment beaucoup",
+    response:
+      "L'amour, c'est un territoire qui veut le prendre donne son coeur ou se fait prendre son coeur, Mais est-ce que je t'aime ? pour te donner mon coeur ",
+  },
+  {
+    question: "tu parles a quelqu'un en ce moment ?",
+    response:
+      "wesh,D'autre chose passe avant les bavardages inutiles, mais j'ai toujours des gens(amis,connaissances)avec qui discuter dans ce monde bruyant ",
+  },
+
+  {
     question: "Qui tu texte le plus ?",
     response: "Moi,j'adore parler tout seul. ",
+  },
+  {
+    question: "Me laisse pas sur ouvert stp",
+    response:
+      "les attentes ne dictent pas mes actions. Les messages laissés en suspens ne sont pas ma préoccupation. Si tu cherches des réponses, cherche-les ailleurs.",
+  },
+  {
+    question: "Me manque tellement",
+    response:
+      "Chui en mode sommeil, la nostalgie, c'est pas ma vibe en ce moment. J'ai une seule envie... 💤",
   },
 
   {

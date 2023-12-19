@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     type: "website",
     locale: "en_US",
     url: "https://acelest-ngl.vercel.app",
-    siteName: "ACELEST NLG ",
+    siteName: "ACELEST NLG / Pose moi une question ",
     images: [
       {
         url: "https://acelest-ngl.vercel.app/banner.jpeg",
