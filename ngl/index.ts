@@ -38,7 +38,7 @@ export const ngl = [
   {
     question: "Me laisse pas sur ouvert stp",
     response:
-      "les attentes ne dictent pas mes actions. Les messages laissés en suspens ne sont pas ma préoccupation. Si tu cherches des réponses, cherche-les ailleurs.",
+      "les attentes ne dictent pas mes actions. Les messages laissés en suspens ne sont pas ma préoccupation.",
   },
   {
     question: "Me manque tellement",
