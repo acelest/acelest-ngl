@@ -36,6 +36,15 @@ export const ngl = [
     response: "Moi,j'adore parler tout seul. ",
   },
   {
+    question: "Je suis la pour te soutenir",
+    response:
+      "J'ai besoin d'une femme, une matriache, qui sait cuisiner les grillades..",
+  },
+  {
+    question: "Tu as des piercings ?",
+    response: "Nada ",
+  },
+  {
     question: "Me laisse pas sur ouvert stp",
     response:
       "les attentes ne dictent pas mes actions. Les messages laissés en suspens ne sont pas ma préoccupation.",
