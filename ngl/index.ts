@@ -21,6 +21,10 @@ export const ngl = [
       "bien bien, tranquille. Toujours en mode relax, tu sais comment c'est. Et toi, ça roule comment de ton côté ?",
   },
   {
+    question: "t'es adorable lol",
+    response:
+    "Aw, merci ! C'difficile d'être aussi adorable que moi, non ? lol"  },
+  {
     question: "je t'aime vraiment beaucoup",
     response:
       "L'amour, c'est un territoire qui veut le prendre donne son coeur ou se fait prendre son coeur, Mais est-ce que je t'aime ? pour te donner mon coeur ",
