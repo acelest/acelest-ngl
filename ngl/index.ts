@@ -30,6 +30,11 @@ export const ngl = [
     response: "tu auras le temps de le rencontrer bientot",
   },
   {
+    question: "tu me manqueee",
+    response:
+      "ok, que soit claire des aujourd'hui comme tu veux continuer a te cacher dans l'ombre, je vais pas te donner une chance d'etre eclairer par le projecteur, je dis bien aucune chance, l'ombre, l'oublie c'est ca que tu merites  ",
+  },
+  {
     question: "tout va bien ?",
     response:
       "un peu comme un soldat je te dirais, les bons jours sont des medailles ",
