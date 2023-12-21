@@ -35,6 +35,11 @@ export const ngl = [
       "un peu comme un soldat je te dirais, les bons jours sont des medailles ",
   },
   {
+    question: "tout va bien ?",
+    response:
+      "Sans te connaitre j'sens une flamme  de toi, qui brule en moi, faisons l'union du chaud et du froid ",
+  },
+  {
     question: "t'es occupe ce weekend ?",
     response:
       "Bien sûr, ce weekend d'noel est toujours special. Dis-moi où et quand, et je verrai si je peux me libérer de mes obligations.",
