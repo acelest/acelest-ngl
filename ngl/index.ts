@@ -23,7 +23,22 @@ export const ngl = [
   {
     question: "t'es adorable lol",
     response:
-    "Aw, merci ! C'difficile d'être aussi adorable que moi, non ? lol"  },
+      "Aw, merci ! C'difficile d'être aussi adorable que moi, non ? lol",
+  },
+  {
+    question: "ton ami(e)... tu devrais me brancher",
+    response: "tu auras le temps de le rencontrer bientot",
+  },
+  {
+    question: "tout va bien ?",
+    response:
+      "un peu comme un soldat je te dirais, les bons jours sont des medailles ",
+  },
+  {
+    question: "t'es occupe ce weekend ?",
+    response:
+      "Bien sûr, ce weekend d'noel est toujours special. Dis-moi où et quand, et je verrai si je peux me libérer de mes obligations.",
+  },
   {
     question: "je t'aime vraiment beaucoup",
     response:
