@@ -20,10 +20,25 @@ export const ngl = [
     response:
       "bien bien, tranquille. Toujours en mode relax, tu sais comment c'est. Et toi, ça roule comment de ton côté ?",
   },
-  {
-    question: "t'es adorable lol",
+      {
+    question: "HEY U SHOULD REPLY TO ME  lol",
     response:
-      "Aw, merci ! C'difficile d'être aussi adorable que moi, non ? lol",
+      "He, tu m'casse un peu les couilles, soit plus romantique, dis moi ce que tu veux reellement",
+  },
+        {
+    question: "You're the besttttt",
+    response:
+      "MERCI",
+  },
+           {
+    question: "Tu me manques",
+    response:
+      "beh, c'est bien ",
+  },
+  {
+    question: "t'es Hetero ?",
+    response:
+      "Wi",
   },
   {
     question: "ton ami(e)... tu devrais me brancher",
