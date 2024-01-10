@@ -51,7 +51,6 @@ export default function Home() {
                   key={index}
                   className="h-fit p-5 md:p-6 space-y-6 rounded-lg bg-white  border border-gray-100  shadow-2xl shadow-gray-100/70 hover:border-red-600"
                 >
-                Hello Karelle
                   <p className="font-medium text-md text-gray-700 ">
                     “ {ngl.question} ”
                   </p>
