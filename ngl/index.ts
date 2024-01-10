@@ -5,21 +5,18 @@
 },
 */
 export const ngl = [
-  {
-    question: "Quel modèle de Lenovo ThinkPad utilises-tu ?",
-    response: "Je suis un fier utilisateur d'un Lenovo ThinkPad T460.",
-  },
-  {
-    question:
-      " Tu aimes la photographie mais tu n'aimes pas etre sur les photos. Tu ne postes jamais de photos de toi. Tu fais ca commment ? Explique un peu",
-    response:
-      "Ouii j'adore prendre des photos, mais je suis pas a l'aise derriere une camera c'est parce que j'ai peur d'etre mal filmer lol :)",
-  },
-  {
-    question: "Comment tu vas aujourd'hui? Tout va bien ?",
-    response:
-      "bien bien, tranquille. Toujours en mode relax, tu sais comment c'est. Et toi, ça roule comment de ton côté ?",
-  },
+     {
+        question: "HELLO KARELLE",
+        response: "JE T'AI  DEMASQUE... JE DOIS AVOUER QUE TU ES BIEN JOUER AVEC MOI DEPUIS CE TEMPS",
+    }
+   {
+        question: "HELLO KARELLE",
+        response: "HELLO KARELLE",
+    }
+    {
+        question: "....",
+        response: "HELLO KARELLE",
+    }
       {
     question: "HEY U SHOULD REPLY TO ME  lol",
     response:
@@ -153,7 +150,21 @@ export const ngl = [
     question: "t'es tropp adorable",
     response: "Wesh merci cc",
   },
-
+  {
+    question: "Quel modèle de Lenovo ThinkPad utilises-tu ?",
+    response: "Je suis un fier utilisateur d'un Lenovo ThinkPad T460.",
+  },
+  {
+    question:
+      " Tu aimes la photographie mais tu n'aimes pas etre sur les photos. Tu ne postes jamais de photos de toi. Tu fais ca commment ? Explique un peu",
+    response:
+      "Ouii j'adore prendre des photos, mais je suis pas a l'aise derriere une camera c'est parce que j'ai peur d'etre mal filmer lol :)",
+  },
+  {
+    question: "Comment tu vas aujourd'hui? Tout va bien ?",
+    response:
+      "bien bien, tranquille. Toujours en mode relax, tu sais comment c'est. Et toi, ça roule comment de ton côté ?",
+  },
   {
     question: "je veux connaitre ton crush ",
     response: "Je n'ai pas de crush, la vie c'est pas pour crusher",
