@@ -8,15 +8,15 @@ export const ngl = [
      {
         question: "HELLO KARELLE",
         response: "JE T'AI  DEMASQUE... JE DOIS AVOUER QUE TU ES BIEN JOUER AVEC MOI DEPUIS CE TEMPS",
-    }
+    },
    {
         question: "HELLO KARELLE",
         response: "HELLO KARELLE",
-    }
+    },
     {
         question: "....",
         response: "HELLO KARELLE",
-    }
+    },
       {
     question: "HEY U SHOULD REPLY TO ME  lol",
     response:
