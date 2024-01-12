@@ -5,37 +5,27 @@
 },
 */
 export const ngl = [
-     {
-        question: "HELLO KARELLE",
-        response: "JE T'AI  DEMASQUE... JE DOIS AVOUER QUE TU ES BIEN JOUER AVEC MOI DEPUIS CE TEMPS",
-    },
-   {
-        question: "HELLO KARELLE",
-        response: "HELLO KARELLE",
-    },
-    {
-        question: "....",
-        response: "HELLO KARELLE",
-    },
-      {
-    question: "HEY U SHOULD REPLY TO ME  lol",
+  {
+    question: "Who is the friend that's always there for you",
     response:
-      "He, tu m'casse un peu les couilles, soit plus romantique, dis moi ce que tu veux reellement",
+      "D'abord pourquoi tu adores parler deja anglais, l'ami qui toujours la pour moi c'est moi meme",
   },
-        {
+  {
+    question: "Why do u take so long to respond to msgs ??",
+    response:
+      "Pour mettre a jour le site, je dois coder, parfois j'oublie je venir voire les questions, t'es chaud toute cette journee tu peux me poser tes questions je vais y repondre",
+  },
+  {
     question: "You're the besttttt",
-    response:
-      "MERCI",
+    response: "MERCI",
   },
-           {
+  {
     question: "Tu me manques",
-    response:
-      "beh, c'est bien ",
+    response: "beh, c'est bien ",
   },
   {
     question: "t'es Hetero ?",
-    response:
-      "Wi",
+    response: "Wi",
   },
   {
     question: "ton ami(e)... tu devrais me brancher",
