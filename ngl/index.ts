@@ -8,7 +8,7 @@ export const ngl = [
   {
     question: "Who is the friend that's always there for you",
     response:
-      "D'abord pourquoi tu adores parler deja anglais, l'ami qui toujours la pour moi c'est moi meme",
+      "D'abord pourquoi tu adores parler deja anglais, l'ami qui est toujours la pour moi c'est moi meme",
   },
   {
     question: "Why do u take so long to respond to msgs ??",
