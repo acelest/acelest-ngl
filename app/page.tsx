@@ -1,6 +1,7 @@
+import { ngl } from "@/ngl";
 import Image from "next/image";
 import Link from "next/link";
-import { ngl } from "@/ngl";
+
 
 export default function Home() {
   return (
