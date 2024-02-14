@@ -1,10 +1,9 @@
-/*
-{
-    question: "",
-    response: "",
-},
-*/
 export const ngl = [
+  {
+    question: "Qui te manque le plus ?",
+    response:
+      "Eh bien y'a pas mal de monde qui a foutu le camp dici-bas. Mais si tu veux savoir qui me manque vraiment, c'est ceux qui sont six pieds sous terre. Les amis perdus en chemin, les frères devenus des souvenirs. C'est eux qui laissent un vide qui ne se comble pas, même avec toute la puissance du temps",
+  },
   {
     question: "Who is the friend that's always there for you",
     response:
@@ -23,10 +22,7 @@ export const ngl = [
     question: "Tu me manques",
     response: "beh, c'est bien ",
   },
-  {
-    question: "t'es Hetero ?",
-    response: "Wi",
-  },
+ 
   {
     question: "ton ami(e)... tu devrais me brancher",
     response: "tu auras le temps de le rencontrer bientot",
@@ -46,11 +42,7 @@ export const ngl = [
     response:
       "Sans te connaitre j'sens une flamme  de toi, qui brule en moi, faisons l'union du chaud et du froid ",
   },
-  {
-    question: "t'es occupe ce weekend ?",
-    response:
-      "Bien sûr, ce weekend d'noel est toujours special. Dis-moi où et quand, et je verrai si je peux me libérer de mes obligations.",
-  },
+  
   {
     question: "je t'aime vraiment beaucoup",
     response:
@@ -75,10 +67,7 @@ export const ngl = [
     question: "Celibataire ou pas",
     response: "Oui",
   },
-  {
-    question: "Tu as des piercings ?",
-    response: "Nada ",
-  },
+ 
   {
     question: "Me laisse pas sur ouvert stp",
     response:
@@ -100,16 +89,7 @@ export const ngl = [
       "Ah, tu sais, la vie est pleine d'histoires et d'expériences. Chacune laisse une empreinte, mais je  ne suis pas du genre à vivre dans le rétroviseur. Chaque chapitre m'a appris quelque chose et m'a aidé à devenir la personne  que tu vois aujourd'hui.",
   },
 
-  {
-    question: "Je crois que quelqu'un que je connais a le beguin pour toi ??",
-    response:
-      "Tu penses donc que quelqu'un que je connais aurait un béguin pour moi, n'est-ce pas ? Eh bien, mon ami anonyme, si elle souhaite révéler son identité et discuter de cela de manière civilisée, qu'elle le fasse. En attendant, je préfère me concentrer sur des affaires plus sérieuses et laisser les sentiments flotter dans l'ombre. La discrétion est une qualité appréciée dans notre monde, tout comme la loyauté. Qu'elle choisisse avec sagesse son prochain mouvement.",
-  },
-  {
-    question: "Je crois que quelqu'un que je connais a le beguin pour toi ??",
-    response:
-      "Demain, à Yafê apres les cours, je serais là . Si tu es curieuse de découvrir qui se cache derrière moi comme tu le dis, Choisis, et peut-être,tu auras le privilège de percer le voile qui entoure mon identité. À demain mets une robe qui te va bien.",
-  },
+
 
   {
     question: "J'aimerais que nous soyons les meilleurs camarades",
@@ -117,11 +97,7 @@ export const ngl = [
       "t'inquiète, on peut être plus que des potes, on peut être des loups dans cette jungle on trace notre route ensemble, on partage les galères et les réussites t'es down pour ça ?",
   },
 
-  {
-    question: "Qui te manque le plus ?",
-    response:
-      "Eh bien y'a pas mal de monde qui a foutu le camp dici-bas. Mais si tu veux savoir qui me manque vraiment, c'est ceux qui sont six pieds sous terre. Les amis perdus en chemin, les frères devenus des souvenirs. C'est eux qui laissent un vide qui ne se comble pas, même avec toute la puissance du temps",
-  },
+  
   {
     question: "c'est qui ton crush ?",
     response: "Toi.",
